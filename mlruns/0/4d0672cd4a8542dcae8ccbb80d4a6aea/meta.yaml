@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91930/Documents/Gemstone%20Price%20Prediction/mlruns/0/4d0672cd4a8542dcae8ccbb80d4a6aea/artifacts
+end_time: 1701244294184
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d0672cd4a8542dcae8ccbb80d4a6aea
+run_name: bouncy-snail-27
+run_uuid: 4d0672cd4a8542dcae8ccbb80d4a6aea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701244285359
+status: 3
+tags: []
+user_id: anirudhaAY
